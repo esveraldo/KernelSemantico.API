@@ -1,0 +1,3 @@
+﻿# KernelSemantico.API
+
+
